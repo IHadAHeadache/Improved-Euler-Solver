@@ -1,0 +1,17 @@
+Description:
+	Thanks for: https://github.com/codeplea/tinyexpr.git
+	It's a Numerical Solver based on Improved Euler Method.
+Build up Procedure:
+	Type in "Make all" in command line.
+Example:
+	y':2*x-3*y+1
+	Initial x:1
+	Initial y:5
+	Target x:1.5
+	Size of the step:0.05
+	Answer:2.059166
+
+
+--------------------------------------------
+Contact:
+E-mail:wusu@imrc.ncku.edu.tw
